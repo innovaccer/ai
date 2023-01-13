@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ai/static/css/main.64cf1afc.css",
+    "main.js": "/ai/static/js/main.d10f9855.js",
+    "static/js/787.d40fabb2.chunk.js": "/ai/static/js/787.d40fabb2.chunk.js",
+    "static/media/MaterialIconsTwoTone-Regular.otf": "/ai/static/media/MaterialIconsTwoTone-Regular.1505d949a92ea9708af7.otf",
+    "static/media/MaterialIconsRound-Regular.otf": "/ai/static/media/MaterialIconsRound-Regular.67e0b26ebba5d330b5df.otf",
+    "static/media/MaterialIcons-Regular.ttf": "/ai/static/media/MaterialIcons-Regular.e751952f99a391b623f3.ttf",
+    "static/media/MaterialIconsOutlined-Regular.otf": "/ai/static/media/MaterialIconsOutlined-Regular.e34c6ca65a7ad3b32c23.otf",
+    "static/media/MaterialIconsSharp-Regular.otf": "/ai/static/media/MaterialIconsSharp-Regular.3ce51523f5a93d7774ac.otf",
+    "static/media/personal-assistant.png": "/ai/static/media/personal-assistant.5fcbbff25e86b6291f46.png",
+    "index.html": "/ai/index.html",
+    "main.64cf1afc.css.map": "/ai/static/css/main.64cf1afc.css.map",
+    "main.d10f9855.js.map": "/ai/static/js/main.d10f9855.js.map",
+    "787.d40fabb2.chunk.js.map": "/ai/static/js/787.d40fabb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64cf1afc.css",
+    "static/js/main.d10f9855.js"
+  ]
+}
